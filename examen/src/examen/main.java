@@ -5,7 +5,14 @@ public class main {
 	fsd
 	f
 	sdf
-	dfd
+	dfddmdm 
+		dvv
+		cvcv
+		cvc
+		vc
+		v
+		cv
+		x
 	f
 	sdfsdf
 	scv
